@@ -60,5 +60,9 @@ desktop.ini
 
 # macOS 特定
 .DS_Store
+
+# Git提交脚本
+git_commit_helper.py
+quick_git_push.py
 .AppleDouble
 .LSOverride
