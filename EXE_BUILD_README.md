@@ -40,11 +40,7 @@ pyinstaller WeLearnAuto_fixed2.spec
 - 在spec文件和增强版打包脚本中都已配置图标
 - 重新打包后exe文件将显示自定义图标
 
-## 清理后的文件结构
 
-以下文件已被清理：
-- PyInstaller 生成的 build 临时目录
-- 多余的 spec 文件（WeLearnAuto.spec, WeLearnAuto_complete.spec, WeLearnAuto_final.spec, WeLearnAuto_fixed.spec）
-- 临时的验证文件（verify_dependencies.py, verify_dependencies.spec, create_icon.py）
-- dist 目录中只保留最终的可执行文件
+
+
 
