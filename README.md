@@ -29,6 +29,7 @@
 - Windows / macOS / Linux
 
 ### 方式一：使用 uv（推荐）
+2025-12-24发现此方式在虚拟环境下安装有未知问题，在虚拟环境下建议采用方式二；全局环境下没测试过是否有问题
 
 [uv](https://github.com/astral-sh/uv) 是一个超快的 Python 包管理器，比 pip 快 10-100 倍。
 
