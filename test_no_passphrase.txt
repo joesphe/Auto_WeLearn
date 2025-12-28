@@ -1,3 +1,0 @@
-Testing if passphrase is required
-test
-test
