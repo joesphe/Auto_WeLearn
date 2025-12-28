@@ -40,7 +40,7 @@ pyinstaller WeLearnAuto_fixed2.spec
 - 在spec文件和增强版打包脚本中都已配置图标
 - 重新打包后exe文件将显示自定义图标
 
-done
+
 
 
 
